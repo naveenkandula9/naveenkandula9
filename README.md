@@ -125,15 +125,13 @@
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 <div align="center">
 
-## 🏆 Achievements & Certifications
-
-| 🥇 Achievement | 📋 Details |
+| 🏆 Achievement | 📋 Details |
 |---|---|
-| 📄 **IEEE Conference Author** | Published research on ML & Explainable AI |
-| ☕ **Oracle Certified Java SE Developer** | Oracle Java Certification |
-| 🌐 **MERN Stack Projects** | Full-stack web applications in production |
-| 🤖 **Machine Learning Projects** | Predictive models with real-world datasets |
-| 💻 **Full Stack Developer** | End-to-end web app development |
+| 📄 **IEEE Conference Author** | Published research paper on *Lung Cancer Prediction using Machine Learning & Explainable AI (XAI)* |
+| ☕ **Oracle Certified Professional: Java SE 17 Developer** | Earned Oracle's professional Java developer certification |
+| 🍃 **MongoDB Certified Associate Developer** | Certified in MongoDB database development, CRUD operations, data modeling, indexing, and aggregation |
+| 💼 **IBM SkillsBuild Full Stack Internship** | Successfully completed a Full Stack Web Development internship in collaboration with Edunet Foundation and IBM SkillsBuild |
+| 🚀 **Full Stack Developer** | Built scalable MERN Stack applications including Smart Home Automation, SecureVote, and Blood Bank Management System |
 
 </div>
 
