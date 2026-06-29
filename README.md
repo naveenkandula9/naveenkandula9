@@ -36,7 +36,6 @@
 
 - 🔭 Currently building **Cloud-Enabled Smart Home Automation** & MERN Stack projects
 - 🌱 Learning **Next.js · Docker · Cloud Deployment · System Design**
-- 🤝 Open to **internships** and **SWE placements** at product-based companies
 - 🧠 Exploring **Explainable AI (XAI)** — SHAP, LIME, Random Forest
 - ☕ Fueled by coffee and curiosity
 - 💬 Ask me about **React · Node.js · Express · MongoDB · C++ · Python · ML**
